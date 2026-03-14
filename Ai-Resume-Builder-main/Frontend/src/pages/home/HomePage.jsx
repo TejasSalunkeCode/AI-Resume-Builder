@@ -14,7 +14,7 @@ function HomePage() {
   const dispatch = useDispatch();
   const handleClick = () => {
     window.open(
-      ""
+      "https://github.com/TejasSalunkeCode/AI-Resume-Builder"
     );
   };
 
